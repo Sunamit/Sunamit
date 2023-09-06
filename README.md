@@ -11,7 +11,7 @@
          
 :books: Sou estudante de Engenharia de Software na Universidade de Brasília.
 
-:books: Faço parte de uma equipe de competição de robótica, e faço iniciação científica na área de Software, na linguagem GAP.
+:books: Faço parte de uma equipe de competição de robótica, trabalho com analise de dados, utilizando SQL, Python, LookerStudio, dentre outras ferramentas.
 
  📫Contatos: <div>
 
